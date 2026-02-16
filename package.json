@@ -1,0 +1,19 @@
+{
+  "name": "leb4-af",
+  "version": "1.0.0",
+  "description": "lab 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmilassas/leb4-AF.git"
+  },
+  "author": "azmil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmilassas/leb4-AF/issues"
+  },
+  "homepage": "https://github.com/asmilassas/leb4-AF#readme"
+}
